@@ -100,6 +100,26 @@
         "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/A3_Black/Black_20.jpg"
     },
     {
+        "name": "MacOS Neo 01",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/01_Apple/27_MacOS_Neo/MacOS_Neo_01.jpg"
+    },
+    {
+        "name": "MacOS Neo 02",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/01_Apple/27_MacOS_Neo/MacOS_Neo_02.jpg"
+    },   
+    {
+        "name": "MacOS Neo 03",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/01_Apple/27_MacOS_Neo/MacOS_Neo_03.jpg"
+    },
+    {
+        "name": "MacOS Neo 04",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/01_Apple/27_MacOS_Neo/MacOS_Neo_04.jpg"
+    },     
+    {
         "name": "iPhone 17 Pro 01",
         "author": "Eatos",
         "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/01_Apple/26_iPhone_17_Pro/iPhone_17_Pro_01.jpg"
@@ -1820,3 +1840,4 @@
         "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/01_Apple/01_iOS_7/iOS_7_16.jpg"
     }
 ]
+
