@@ -195,6 +195,36 @@
         "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/A3_Black/Black_20.jpg"
     },
     {
+        "name": "Galaxy S26 01",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/02_Samsung/44_Galaxy_S26/Galaxy_S26_01.jpg"
+    },
+    {
+        "name": "Galaxy S26 02",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/02_Samsung/44_Galaxy_S26/Galaxy_S26_02.jpg"
+    },
+    {
+        "name": "Galaxy S26 03",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/02_Samsung/44_Galaxy_S26/Galaxy_S26_03.jpg"
+    },
+    {
+        "name": "Galaxy S26 04",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/02_Samsung/44_Galaxy_S26/Galaxy_S26_04.jpg"
+    },
+    {
+        "name": "Galaxy S26 05",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/02_Samsung/44_Galaxy_S26/Galaxy_S26_05.jpg"
+    },
+    {
+        "name": "Galaxy S26 06",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/02_Samsung/44_Galaxy_S26/Galaxy_S26_06.jpg"
+    },    
+    {
         "name": "Galaxy S25 01",
         "author": "Eatos",
         "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/02_Samsung/43_Galaxy_S25/Galaxy_S25_01.jpg"
@@ -2154,4 +2184,5 @@
         "author": "Eatos",
         "url": "https://raw.githubusercontent.com/EatosApps/Wallpapers/main/02_Samsung/01_Galaxy_S3/Galaxy_S3_05.jpg"
     }
+
 ]
